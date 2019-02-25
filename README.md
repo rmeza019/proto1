@@ -83,7 +83,7 @@ git branch -a
 ### Switch between branches
 
 ```
-git checkout -b <branch-name>
+git checkout <branch-name>
 ```
 
 ### Delete a branch on GitHub

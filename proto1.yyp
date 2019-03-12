@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "6fb1dcf4-bb42-4734-8e3c-60678408cb98",
+            "Value": {
+                "id": "fe2b7293-36c1-4312-88be-5ea44fa9516f",
+                "resourcePath": "sprites\\sprKoopaTroopaWalk\\sprKoopaTroopaWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "828e8450-8e2a-47b0-8bc1-0c1f29de3e51",
             "Value": {
                 "id": "6c2d645b-04af-4540-b42d-c0c8fc03fd85",
@@ -151,6 +159,22 @@
             }
         },
         {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "3e1d9538-1680-49ad-90a0-e6b38035177d",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "b23fa323-9221-4838-b910-391aeb0c4081",
+            "Value": {
+                "id": "6ed63482-61fd-4532-8a5d-b9a488fe142a",
+                "resourcePath": "sprites\\sprKoopaTroopaHide\\sprKoopaTroopaHide.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "3ca51342-f147-4f20-a329-d22e18891be7",
@@ -164,6 +188,22 @@
                 "id": "400440f8-7ed3-4f62-a731-08e7520c94b9",
                 "resourcePath": "views\\cfc58132-8256-46bb-b0c1-bfd67eb113dc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "10f4d854-6586-46f3-bc7c-a83b4df0a33b",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f6f5b651-5fb3-47ac-8864-d0657ee2ce0c",
+            "Value": {
+                "id": "8e6f12a8-111c-4274-a734-fa3e8f302f64",
+                "resourcePath": "objects\\objKoopaTroopa\\objKoopaTroopa.yy",
+                "resourceType": "GMObject"
             }
         },
         {

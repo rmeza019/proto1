@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "028b0a80-0c37-4aaa-a9c6-0f1f3a151c56",
+            "Value": {
+                "id": "488f8b3c-cd6e-4747-918b-548204de6e6e",
+                "resourcePath": "sprites\\sprSmolMarioIdle\\sprSmolMarioIdle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "05054455-56ca-437c-9565-d78f2f362137",
             "Value": {
                 "id": "76eb6790-0ca3-4a1c-ad76-9ef1c4b21b48",
@@ -63,11 +71,35 @@
             }
         },
         {
+            "Key": "18c34280-682d-4d41-babe-5024685ebc6c",
+            "Value": {
+                "id": "cdabafa7-f8e3-4ab8-b40b-0437ff29aa37",
+                "resourcePath": "objects\\objSmolMario\\objSmolMario.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "19752db3-00ac-4feb-bb79-41d950609d40",
+            "Value": {
+                "id": "b22bd0db-e19b-4cb6-a967-4c94189c2b71",
+                "resourcePath": "sprites\\sprSmolMarioJump\\sprSmolMarioJump.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "268dc36c-589b-445e-b934-b739c2fdff09",
             "Value": {
                 "id": "a4796e10-ee22-4971-9ca5-8958ace6849d",
                 "resourcePath": "views\\268dc36c-589b-445e-b934-b739c2fdff09.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "29336357-da12-43f9-bfe8-5313674dfbdd",
+            "Value": {
+                "id": "640caa71-c6db-4461-a53a-133ee1ae99f4",
+                "resourcePath": "sprites\\sprSmolMarioDie\\sprSmolMarioDie.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -151,6 +183,14 @@
             }
         },
         {
+            "Key": "a26d7e1e-41d2-4773-bc85-29678ff98368",
+            "Value": {
+                "id": "c6b0238c-b182-4485-a1ca-d8018834ca59",
+                "resourcePath": "sprites\\sprSmolMarioWalk\\sprSmolMarioWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a2afd0ee-c24a-4445-98f6-2a818f44486c",
             "Value": {
                 "id": "ae5fa1b5-34cb-4839-8ad2-426f4f868eda",
@@ -188,6 +228,14 @@
                 "id": "400440f8-7ed3-4f62-a731-08e7520c94b9",
                 "resourcePath": "views\\cfc58132-8256-46bb-b0c1-bfd67eb113dc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "de6d4e7c-b86c-4fa8-be17-1614fe7bde6e",
+            "Value": {
+                "id": "721c77ff-86ef-441e-ad67-41725aba4c74",
+                "resourcePath": "sprites\\sprSmolMarioSkid\\sprSmolMarioSkid.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

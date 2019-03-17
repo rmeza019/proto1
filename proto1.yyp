@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0d472a0a-cb6a-4536-9115-f8b96cd979ad",
+            "Value": {
+                "id": "35e02aa0-4b8d-49a4-88aa-b506ab27b9a3",
+                "resourcePath": "sprites\\sprFireMarioIdle\\sprFireMarioIdle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0e2a23e1-cd27-42ce-b85d-d2d9cfd863c9",
             "Value": {
                 "id": "08389dcf-8b04-4c9a-99f5-a98af82f41d1",
@@ -71,6 +79,14 @@
             }
         },
         {
+            "Key": "1533bb3e-8bd2-4892-9cc9-2ca38e6c20c8",
+            "Value": {
+                "id": "10dbdfe8-3a20-49b6-b44d-038ed4be8e17",
+                "resourcePath": "sprites\\sprFireMarioDie\\sprFireMarioDie.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "18c34280-682d-4d41-babe-5024685ebc6c",
             "Value": {
                 "id": "cdabafa7-f8e3-4ab8-b40b-0437ff29aa37",
@@ -83,6 +99,14 @@
             "Value": {
                 "id": "b22bd0db-e19b-4cb6-a967-4c94189c2b71",
                 "resourcePath": "sprites\\sprSmolMarioJump\\sprSmolMarioJump.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "263d027b-7a54-46ed-b74d-4d2402aab52b",
+            "Value": {
+                "id": "4a40a67b-8290-4c40-85d2-0d6609a6f97f",
+                "resourcePath": "sprites\\sprFireMarioSkid\\sprFireMarioSkid.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -135,6 +159,30 @@
             }
         },
         {
+            "Key": "3f84f120-1fa7-4059-adbb-41624c1f5a1b",
+            "Value": {
+                "id": "19cfdd5e-63cc-4c7c-b65b-1ac712ec306d",
+                "resourcePath": "sprites\\sprSuperMarioSkid\\sprSuperMarioSkid.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "40d4ffe4-5a4e-43f7-8d00-2c92149e8ac9",
+            "Value": {
+                "id": "7678db2c-7214-4fde-97d5-a657fc0e4e3e",
+                "resourcePath": "objects\\objSuperMario\\objSuperMario.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "43583681-42e3-4f03-98fd-5f814c3eb3ec",
+            "Value": {
+                "id": "df44cf11-2d65-4466-b2a3-a8ffb68094a2",
+                "resourcePath": "sprites\\sprSuperMarioDie\\sprSuperMarioDie.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "592a08e7-5176-419d-872b-bb5cc55d5fd2",
             "Value": {
                 "id": "12973114-df82-4860-ac42-41892b3703fd",
@@ -143,10 +191,26 @@
             }
         },
         {
+            "Key": "62e84a62-2289-4952-9f74-3a133fafb2c8",
+            "Value": {
+                "id": "40026355-138c-4d7e-8aa1-c1ae47329983",
+                "resourcePath": "sprites\\sprSuperMarioJump\\sprSuperMarioJump.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6fb1dcf4-bb42-4734-8e3c-60678408cb98",
             "Value": {
                 "id": "fe2b7293-36c1-4312-88be-5ea44fa9516f",
                 "resourcePath": "sprites\\sprKoopaTroopaWalk\\sprKoopaTroopaWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "73d33015-5730-418e-afb4-7fc79ff66b0b",
+            "Value": {
+                "id": "199dff0f-dc52-4a06-b796-9f8db2518ee3",
+                "resourcePath": "sprites\\sprFireMarioWalk\\sprFireMarioWalk.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -215,6 +279,14 @@
             }
         },
         {
+            "Key": "b9140b08-22fa-4a90-9eff-17409198c3e9",
+            "Value": {
+                "id": "264ae43b-8fa9-438d-8ba2-0eb7bb3b9649",
+                "resourcePath": "sprites\\sprFireMarioJump\\sprFireMarioJump.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "3ca51342-f147-4f20-a329-d22e18891be7",
@@ -223,11 +295,43 @@
             }
         },
         {
+            "Key": "cf741026-8e0c-49ea-a018-00685f21bdb4",
+            "Value": {
+                "id": "0bf2844b-5681-4183-bf33-accc5b94c44c",
+                "resourcePath": "sprites\\sprSuperMarioDuck\\sprSuperMarioDuck.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cfc58132-8256-46bb-b0c1-bfd67eb113dc",
             "Value": {
                 "id": "400440f8-7ed3-4f62-a731-08e7520c94b9",
                 "resourcePath": "views\\cfc58132-8256-46bb-b0c1-bfd67eb113dc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d39e8701-4236-4be0-afc3-5599646f36fe",
+            "Value": {
+                "id": "1e8fcefa-f9e1-4c6b-afbb-ee568d3d33da",
+                "resourcePath": "sprites\\sprFireMarioDuck\\sprFireMarioDuck.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d51d894e-c3cc-4a0d-ab1c-15c64c673a4c",
+            "Value": {
+                "id": "e59b2e73-a6a7-4932-bfd1-ca467eaf09fa",
+                "resourcePath": "sprites\\sprSuperMarioWalk\\sprSuperMarioWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "de4ce8a4-bf88-4738-942c-c439b67eaf27",
+            "Value": {
+                "id": "2ffb7ebb-03de-44f6-a2a8-2bc81d52235b",
+                "resourcePath": "sprites\\sprSuperMarioIdle\\sprSuperMarioIdle.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

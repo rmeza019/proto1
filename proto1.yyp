@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "20b2cdbb-0ea1-4425-af10-ca75d81a32f5",
+            "Value": {
+                "id": "46174d08-5d82-4b1c-8b87-9acff05c98a0",
+                "resourcePath": "views\\20b2cdbb-0ea1-4425-af10-ca75d81a32f5.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "263d027b-7a54-46ed-b74d-4d2402aab52b",
             "Value": {
                 "id": "4a40a67b-8290-4c40-85d2-0d6609a6f97f",
@@ -175,14 +183,6 @@
             }
         },
         {
-            "Key": "43e57916-b335-4472-b9d1-b5894bc2ebda",
-            "Value": {
-                "id": "ced094b5-0ec0-4037-8380-f2b5dea4571f",
-                "resourcePath": "sprites\\sprFlame\\sprFlame.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "40d4ffe4-5a4e-43f7-8d00-2c92149e8ac9",
             "Value": {
                 "id": "7678db2c-7214-4fde-97d5-a657fc0e4e3e",
@@ -191,18 +191,26 @@
             }
         },
         {
-            "Key": "456cb98a-76a7-4b08-a4fa-ed6c49078c77",
-            "Value": {
-                "id": "844627b9-71fb-4348-8570-3858f3797b63",
-                "resourcePath": "sprites\\sprFakeBowserWalk\\sprFakeBowserWalk.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "43583681-42e3-4f03-98fd-5f814c3eb3ec",
             "Value": {
                 "id": "df44cf11-2d65-4466-b2a3-a8ffb68094a2",
                 "resourcePath": "sprites\\sprSuperMarioDie\\sprSuperMarioDie.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "43e57916-b335-4472-b9d1-b5894bc2ebda",
+            "Value": {
+                "id": "ced094b5-0ec0-4037-8380-f2b5dea4571f",
+                "resourcePath": "sprites\\sprFlame\\sprFlame.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "456cb98a-76a7-4b08-a4fa-ed6c49078c77",
+            "Value": {
+                "id": "844627b9-71fb-4348-8570-3858f3797b63",
+                "resourcePath": "sprites\\sprFakeBowserWalk\\sprFakeBowserWalk.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -223,6 +231,14 @@
             }
         },
         {
+            "Key": "66a69e01-b5eb-4e8c-9c36-7f0cfa0810a2",
+            "Value": {
+                "id": "299f4d17-6852-481b-98b0-6f7d67e7cbef",
+                "resourcePath": "views\\66a69e01-b5eb-4e8c-9c36-7f0cfa0810a2.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "6fb1dcf4-bb42-4734-8e3c-60678408cb98",
             "Value": {
                 "id": "fe2b7293-36c1-4312-88be-5ea44fa9516f",
@@ -236,6 +252,14 @@
                 "id": "199dff0f-dc52-4a06-b796-9f8db2518ee3",
                 "resourcePath": "sprites\\sprFireMarioWalk\\sprFireMarioWalk.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "79c8f425-c74a-4de2-84cc-271d1ded6753",
+            "Value": {
+                "id": "1e73dde5-3c05-477e-b4c3-f5d603445eee",
+                "resourcePath": "views\\79c8f425-c74a-4de2-84cc-271d1ded6753.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -287,6 +311,14 @@
             }
         },
         {
+            "Key": "a28bb385-365f-4d4e-ab3c-1ebec6af0914",
+            "Value": {
+                "id": "5d79fe9c-bb66-41ec-ba99-9078b4ea4a4c",
+                "resourcePath": "views\\a28bb385-365f-4d4e-ab3c-1ebec6af0914.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "a2afd0ee-c24a-4445-98f6-2a818f44486c",
             "Value": {
                 "id": "ae5fa1b5-34cb-4839-8ad2-426f4f868eda",
@@ -303,11 +335,27 @@
             }
         },
         {
+            "Key": "af74e370-c28a-4375-a212-8be20afd6cef",
+            "Value": {
+                "id": "700f7945-f5ae-4c51-9e84-4e5ba912f95b",
+                "resourcePath": "views\\af74e370-c28a-4375-a212-8be20afd6cef.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "b23fa323-9221-4838-b910-391aeb0c4081",
             "Value": {
                 "id": "6ed63482-61fd-4532-8a5d-b9a488fe142a",
                 "resourcePath": "sprites\\sprKoopaTroopaHide\\sprKoopaTroopaHide.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b687436d-3221-44ed-8bd8-12d8731f3a38",
+            "Value": {
+                "id": "3b957591-086e-44f1-992d-9b2e42f61550",
+                "resourcePath": "views\\b687436d-3221-44ed-8bd8-12d8731f3a38.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -356,6 +404,14 @@
                 "id": "e59b2e73-a6a7-4932-bfd1-ca467eaf09fa",
                 "resourcePath": "sprites\\sprSuperMarioWalk\\sprSuperMarioWalk.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dc1d11bc-b385-406c-adf5-3b8485468c5c",
+            "Value": {
+                "id": "da5352c4-d300-41f4-b76e-5ac77d283c2f",
+                "resourcePath": "views\\dc1d11bc-b385-406c-adf5-3b8485468c5c.yy",
+                "resourceType": "GMFolder"
             }
         },
         {

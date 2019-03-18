@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "01fdd7bc-b920-4f08-97ef-eee3fa9395fe",
+            "Value": {
+                "id": "bf5da2be-113d-4a3c-a914-44005353c7ff",
+                "resourcePath": "sprites\\sprUndergroundGround\\sprUndergroundGround.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "028b0a80-0c37-4aaa-a9c6-0f1f3a151c56",
             "Value": {
                 "id": "488f8b3c-cd6e-4747-918b-548204de6e6e",
@@ -44,6 +52,14 @@
                 "id": "76eb6790-0ca3-4a1c-ad76-9ef1c4b21b48",
                 "resourcePath": "views\\05054455-56ca-437c-9565-d78f2f362137.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0c709ac1-d92f-4e42-99d7-539ccaa6d213",
+            "Value": {
+                "id": "a4a70e0f-7108-4455-87d7-19c936a81bff",
+                "resourcePath": "sprites\\sprOverworldGround\\sprOverworldGround.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -255,6 +271,14 @@
             }
         },
         {
+            "Key": "76c7d90e-c185-4fb7-b299-d734ebbc0099",
+            "Value": {
+                "id": "445258d1-684a-4f1a-b587-24df29f19809",
+                "resourcePath": "sprites\\sprObstacle\\sprObstacle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "79c8f425-c74a-4de2-84cc-271d1ded6753",
             "Value": {
                 "id": "1e73dde5-3c05-477e-b4c3-f5d603445eee",
@@ -436,6 +460,14 @@
                 "id": "2adeac11-23b6-4d76-86f7-ec1291744f1a",
                 "resourcePath": "sprites\\sprDisguisedEnemy\\sprDisguisedEnemy.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ea0828ca-2503-45a0-a079-24a418a38e59",
+            "Value": {
+                "id": "7bd8697c-8f9b-4675-8316-105c833d3c3c",
+                "resourcePath": "views\\ea0828ca-2503-45a0-a079-24a418a38e59.yy",
+                "resourceType": "GMFolder"
             }
         },
         {

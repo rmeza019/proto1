@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "372ea507-e815-44e1-9a74-2e827fdc875d",
+            "Value": {
+                "id": "12470572-9079-4d9d-910e-9fd6756c1ec7",
+                "resourcePath": "objects\\objFakeBowser\\objFakeBowser.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3ab36392-d38f-4ae7-8dac-d9a513e7da15",
             "Value": {
                 "id": "3f99bf9d-ca1e-41f6-934c-f5c2155302c6",
@@ -259,6 +267,14 @@
             "Value": {
                 "id": "721c77ff-86ef-441e-ad67-41725aba4c74",
                 "resourcePath": "sprites\\sprSmolMarioSkid\\sprSmolMarioSkid.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e5ac6694-244f-470a-8d0f-34cb5babf10c",
+            "Value": {
+                "id": "2adeac11-23b6-4d76-86f7-ec1291744f1a",
+                "resourcePath": "sprites\\sprDisguisedEnemy\\sprDisguisedEnemy.yy",
                 "resourceType": "GMSprite"
             }
         },

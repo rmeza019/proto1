@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "0e1e349c-a4f2-4a30-9f2a-ed38ee470138",
+            "Value": {
+                "id": "40a8a4c7-1958-4237-8c93-60e8f4e8de7b",
+                "resourcePath": "sprites\\sprLava\\sprLava.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0e2a23e1-cd27-42ce-b85d-d2d9cfd863c9",
             "Value": {
                 "id": "08389dcf-8b04-4c9a-99f5-a98af82f41d1",
@@ -131,6 +139,22 @@
             "Value": {
                 "id": "b22bd0db-e19b-4cb6-a967-4c94189c2b71",
                 "resourcePath": "sprites\\sprSmolMarioJump\\sprSmolMarioJump.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "19fe9b88-1363-46e6-8971-920426cfc0fd",
+            "Value": {
+                "id": "8b356130-c417-495a-9c47-e4bd7fd13e27",
+                "resourcePath": "sprites\\sprMushroomCursor\\sprMushroomCursor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1c0d79c0-34aa-4f36-b3fe-b8a5e4e1bbd7",
+            "Value": {
+                "id": "09e31325-b21c-4234-8d81-10e8c91c184b",
+                "resourcePath": "sprites\\sprLavaTop\\sprLavaTop.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -427,6 +451,22 @@
             "Value": {
                 "id": "264ae43b-8fa9-438d-8ba2-0eb7bb3b9649",
                 "resourcePath": "sprites\\sprFireMarioJump\\sprFireMarioJump.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ba7c7e6d-7c27-49b5-9c97-b531de9a3961",
+            "Value": {
+                "id": "2fe13bd5-590f-4d2c-8c05-d8b2908e362a",
+                "resourcePath": "sprites\\sprCastleFlag\\sprCastleFlag.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c2e640fa-03f0-4aed-b891-cf0d03d019fa",
+            "Value": {
+                "id": "41615df2-d4c0-4f18-be99-7449ed7f3041",
+                "resourcePath": "sprites\\sprFirework\\sprFirework.yy",
                 "resourceType": "GMSprite"
             }
         },

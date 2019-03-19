@@ -56,7 +56,7 @@
             "SpriteId": "01c555ba-66f2-4590-99e7-2409e6978365",
             "blendMode": 0,
             "isLocked": false,
-            "name": "default",
+            "name": "base",
             "opacity": 100,
             "visible": true
         },
@@ -67,7 +67,7 @@
             "SpriteId": "01c555ba-66f2-4590-99e7-2409e6978365",
             "blendMode": 0,
             "isLocked": false,
-            "name": "Layer 1",
+            "name": "top",
             "opacity": 100,
             "visible": true
         }

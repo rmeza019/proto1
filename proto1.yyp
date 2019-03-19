@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "01c555ba-66f2-4590-99e7-2409e6978365",
+            "Value": {
+                "id": "50919d5a-324f-450f-a1b4-5c0e53392de1",
+                "resourcePath": "sprites\\sprCastle\\sprCastle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "01fdd7bc-b920-4f08-97ef-eee3fa9395fe",
             "Value": {
                 "id": "bf5da2be-113d-4a3c-a914-44005353c7ff",
@@ -52,6 +60,14 @@
                 "id": "76eb6790-0ca3-4a1c-ad76-9ef1c4b21b48",
                 "resourcePath": "views\\05054455-56ca-437c-9565-d78f2f362137.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "08c460eb-4720-4c57-8dd0-095dc3ea99ce",
+            "Value": {
+                "id": "47a7ce35-42ab-407a-a9c6-85adefc25948",
+                "resourcePath": "sprites\\sprCastleBackGround\\sprCastleBackGround.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -255,10 +271,26 @@
             }
         },
         {
+            "Key": "6cb7ec4a-ac71-4f26-b6bf-abf06402ec6e",
+            "Value": {
+                "id": "884c85c3-bea6-4a08-a0a8-ed51e45a1466",
+                "resourcePath": "views\\6cb7ec4a-ac71-4f26-b6bf-abf06402ec6e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "6fb1dcf4-bb42-4734-8e3c-60678408cb98",
             "Value": {
                 "id": "fe2b7293-36c1-4312-88be-5ea44fa9516f",
                 "resourcePath": "sprites\\sprKoopaTroopaWalk\\sprKoopaTroopaWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "724e88bb-10c6-4d0b-a3f6-a06f988f31ee",
+            "Value": {
+                "id": "3307f7d3-4307-4506-927b-38214597e97b",
+                "resourcePath": "sprites\\sprOverworldBackGround\\sprOverworldBackGround.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -284,6 +316,14 @@
                 "id": "1e73dde5-3c05-477e-b4c3-f5d603445eee",
                 "resourcePath": "views\\79c8f425-c74a-4de2-84cc-271d1ded6753.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "802fa272-95d2-4a43-a7ac-3e3667a9fb0d",
+            "Value": {
+                "id": "ec9e0713-e9ab-4342-98ec-ee05db737b54",
+                "resourcePath": "sprites\\sprBridgeChain\\sprBridgeChain.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

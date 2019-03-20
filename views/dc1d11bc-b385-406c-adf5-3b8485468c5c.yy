@@ -8,7 +8,8 @@
         "a26d7e1e-41d2-4773-bc85-29678ff98368",
         "de6d4e7c-b86c-4fa8-be17-1614fe7bde6e",
         "19752db3-00ac-4feb-bb79-41d950609d40",
-        "29336357-da12-43f9-bfe8-5313674dfbdd"
+        "29336357-da12-43f9-bfe8-5313674dfbdd",
+        "992b7618-bc0f-4cba-9f98-c4222d9c9305"
     ],
     "filterType": "GMSprite",
     "folderName": "Smol Mario",

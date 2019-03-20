@@ -295,6 +295,14 @@
             }
         },
         {
+            "Key": "3384bf18-94d2-4e6b-bdb3-4eb5310a8d3d",
+            "Value": {
+                "id": "fcc76784-7b00-4286-96a9-731f998480f0",
+                "resourcePath": "sprites\\sprSuperMarioSlide\\sprSuperMarioSlide.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "372ea507-e815-44e1-9a74-2e827fdc875d",
             "Value": {
                 "id": "12470572-9079-4d9d-910e-9fd6756c1ec7",
@@ -495,6 +503,14 @@
             }
         },
         {
+            "Key": "77288d16-625a-486e-b8cb-ac21a1e2e8ed",
+            "Value": {
+                "id": "6ffff025-ede9-4892-8dbd-f3edfafdb70c",
+                "resourcePath": "sprites\\sprFireMarioSlide\\sprFireMarioSlide.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "79c8f425-c74a-4de2-84cc-271d1ded6753",
             "Value": {
                 "id": "1e73dde5-3c05-477e-b4c3-f5d603445eee",
@@ -580,6 +596,14 @@
                 "id": "51f41576-f480-4ef4-8f9e-9a6eecc14776",
                 "resourcePath": "objects\\objLavaTop\\objLavaTop.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "992b7618-bc0f-4cba-9f98-c4222d9c9305",
+            "Value": {
+                "id": "3ff5ff79-2ed8-4726-a03f-4d022253d4d9",
+                "resourcePath": "sprites\\sprSmolMarioSlide\\sprSmolMarioSlide.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

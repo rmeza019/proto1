@@ -8,7 +8,8 @@
         "0c58cd5c-2884-4c23-8643-e80218cadc94",
         "5f4951bb-6f2f-46cf-ab1b-5f640b9e7f77",
         "4504cda3-f0da-414d-a98f-d00f0429cdfe",
-        "ad540e9c-8095-4fca-9363-e6fabdf73805"
+        "ad540e9c-8095-4fca-9363-e6fabdf73805",
+        "41abbeb9-d405-49fa-a754-d4e68f60078f"
     ],
     "filterType": "GMObject",
     "folderName": "Interactables",

@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "1817256d-1207-4cf2-96e3-2d0515fee002",
+            "Value": {
+                "id": "64372ba6-a88d-4fa7-af58-94dd15ff3768",
+                "resourcePath": "objects\\objFireFlower\\objFireFlower.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "18c34280-682d-4d41-babe-5024685ebc6c",
             "Value": {
                 "id": "cdabafa7-f8e3-4ab8-b40b-0437ff29aa37",
@@ -271,6 +279,22 @@
             }
         },
         {
+            "Key": "5d75e332-ce8f-47dc-a6c4-ed4b38e36c45",
+            "Value": {
+                "id": "d66daab8-6d04-4c66-ab00-cbdabed7bbd1",
+                "resourcePath": "objects\\objSuperMushroom\\objSuperMushroom.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5e8dc3b5-2077-4142-a494-991ecc02df4d",
+            "Value": {
+                "id": "8e435340-d4fd-4ca1-869c-f3a476bbc1e2",
+                "resourcePath": "objects\\objStar\\objStar.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5f4951bb-6f2f-46cf-ab1b-5f640b9e7f77",
             "Value": {
                 "id": "1c0e341f-0139-42a5-8c14-210548a2fd7a",
@@ -399,6 +423,14 @@
             }
         },
         {
+            "Key": "ab30ebe4-d9f4-4e21-8331-8cfa4d47fdb9",
+            "Value": {
+                "id": "263f5629-8014-44f2-a091-ada24fceac25",
+                "resourcePath": "objects\\obj1UpMushroom\\obj1UpMushroom.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ad540e9c-8095-4fca-9363-e6fabdf73805",
             "Value": {
                 "id": "49c29727-3c17-4d43-bd0f-2b809244bfaa",
@@ -415,6 +447,14 @@
             }
         },
         {
+            "Key": "b7ce1931-4b03-4dd7-bb17-4c1199921d25",
+            "Value": {
+                "id": "9e54c583-37d3-43b7-a29c-597afc524147",
+                "resourcePath": "objects\\objFireRod\\objFireRod.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b8143ca9-6d26-475e-97b0-cf58b08a987a",
             "Value": {
                 "id": "a737979d-478a-4079-aa89-d28428df5d36",
@@ -428,6 +468,22 @@
                 "id": "264ae43b-8fa9-438d-8ba2-0eb7bb3b9649",
                 "resourcePath": "sprites\\sprFireMarioJump\\sprFireMarioJump.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ba564372-7ec2-4bcb-8176-d55714be1b9b",
+            "Value": {
+                "id": "9767387b-c619-4e84-844d-ce94e0d82075",
+                "resourcePath": "objects\\objCoin\\objCoin.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c39ff3c8-c61d-40e7-88c1-89deeb6220f0",
+            "Value": {
+                "id": "bd62d007-bb97-430e-9dd5-2ede69b6f081",
+                "resourcePath": "objects\\objLavaBubble\\objLavaBubble.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -500,6 +556,22 @@
                 "id": "779b62ac-72ca-4bf1-a45f-ed3d6c61e80f",
                 "resourcePath": "sprites\\sprOverworldFireFlower\\sprOverworldFireFlower.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d984339b-e4c0-40ed-bdb6-ada3554a5d94",
+            "Value": {
+                "id": "65069739-f1c2-4842-bf98-ff211115156d",
+                "resourcePath": "views\\d984339b-e4c0-40ed-bdb6-ada3554a5d94.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dc639c6d-8cd8-4c4c-bb4b-6148737044a6",
+            "Value": {
+                "id": "f47669ba-68ad-44b9-9aba-cac4778e3da5",
+                "resourcePath": "views\\dc639c6d-8cd8-4c4c-bb4b-6148737044a6.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -579,6 +651,14 @@
             "Value": {
                 "id": "8e6f12a8-111c-4274-a734-fa3e8f302f64",
                 "resourcePath": "objects\\objKoopaTroopa\\objKoopaTroopa.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f94b2d82-a038-4f05-b0ee-b328984d7299",
+            "Value": {
+                "id": "368fb904-0135-488c-905a-4f1e02907111",
+                "resourcePath": "objects\\objFireball\\objFireball.yy",
                 "resourceType": "GMObject"
             }
         },

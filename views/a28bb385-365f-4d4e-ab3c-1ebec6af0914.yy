@@ -9,7 +9,8 @@
         "3f84f120-1fa7-4059-adbb-41624c1f5a1b",
         "62e84a62-2289-4952-9f74-3a133fafb2c8",
         "43583681-42e3-4f03-98fd-5f814c3eb3ec",
-        "cf741026-8e0c-49ea-a018-00685f21bdb4"
+        "cf741026-8e0c-49ea-a018-00685f21bdb4",
+        "3384bf18-94d2-4e6b-bdb3-4eb5310a8d3d"
     ],
     "filterType": "GMSprite",
     "folderName": "Super Mario",

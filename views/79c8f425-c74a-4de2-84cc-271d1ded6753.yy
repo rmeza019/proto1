@@ -9,7 +9,8 @@
         "263d027b-7a54-46ed-b74d-4d2402aab52b",
         "b9140b08-22fa-4a90-9eff-17409198c3e9",
         "1533bb3e-8bd2-4892-9cc9-2ca38e6c20c8",
-        "d39e8701-4236-4be0-afc3-5599646f36fe"
+        "d39e8701-4236-4be0-afc3-5599646f36fe",
+        "77288d16-625a-486e-b8cb-ac21a1e2e8ed"
     ],
     "filterType": "GMSprite",
     "folderName": "Fire Mario",

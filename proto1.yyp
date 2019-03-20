@@ -319,14 +319,6 @@
             }
         },
         {
-            "Key": "6659a957-c967-4650-9026-c3aa00d314fd",
-            "Value": {
-                "id": "4f5b16b9-1114-4c3b-94b5-36f19bfb670e",
-                "resourcePath": "sprites\\sprFireballHit\\sprFireballHit.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "6fb1dcf4-bb42-4734-8e3c-60678408cb98",
             "Value": {
                 "id": "fe2b7293-36c1-4312-88be-5ea44fa9516f",
@@ -364,6 +356,14 @@
                 "id": "43825540-5709-41b1-a7c5-b7af13280d28",
                 "resourcePath": "views\\83a30ce5-455b-4973-93c8-e2ee065a0194.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "87bb59a1-e71b-41d9-8ef5-619ff114997f",
+            "Value": {
+                "id": "be517d69-6654-486a-9a41-e344421b29be",
+                "resourcePath": "sprites\\sprFireballHit\\sprFireballHit.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

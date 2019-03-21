@@ -12,7 +12,8 @@
         "c2e640fa-03f0-4aed-b891-cf0d03d019fa",
         "0e1e349c-a4f2-4a30-9f2a-ed38ee470138",
         "1c0d79c0-34aa-4f36-b3fe-b8a5e4e1bbd7",
-        "19fe9b88-1363-46e6-8971-920426cfc0fd"
+        "19fe9b88-1363-46e6-8971-920426cfc0fd",
+        "cd111fdd-f4cf-476c-90ad-210ac4eb8e04"
     ],
     "filterType": "GMSprite",
     "folderName": "Scenery",

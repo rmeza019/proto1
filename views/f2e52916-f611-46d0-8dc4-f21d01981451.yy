@@ -8,7 +8,8 @@
         "0de3a639-fa84-4264-841a-3cc6d77b0d19",
         "87bb59a1-e71b-41d9-8ef5-619ff114997f",
         "48d541f6-ff1b-479f-af7b-6c141196db01",
-        "0b3d4bb0-f6ae-45e7-b396-888f7e9bcbcc"
+        "0b3d4bb0-f6ae-45e7-b396-888f7e9bcbcc",
+        "43e57916-b335-4472-b9d1-b5894bc2ebda"
     ],
     "filterType": "GMSprite",
     "folderName": "Hazards",

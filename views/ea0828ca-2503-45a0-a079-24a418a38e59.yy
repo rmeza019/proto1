@@ -9,7 +9,8 @@
         "76c7d90e-c185-4fb7-b299-d734ebbc0099",
         "5d002397-7632-4aff-9b94-1787b6e8e969",
         "ed5ec17f-bbad-4118-88d7-309c26dd3109",
-        "2c79ce3b-d8f5-47b7-8c9c-a1f2b35109c4"
+        "2c79ce3b-d8f5-47b7-8c9c-a1f2b35109c4",
+        "cd111fdd-f4cf-476c-90ad-210ac4eb8e04"
     ],
     "filterType": "GMSprite",
     "folderName": "Blocks",

@@ -199,14 +199,6 @@
             }
         },
         {
-            "Key": "18c34280-682d-4d41-babe-5024685ebc6c",
-            "Value": {
-                "id": "cdabafa7-f8e3-4ab8-b40b-0437ff29aa37",
-                "resourcePath": "objects\/objSmolMario\/objSmolMario.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "19752db3-00ac-4feb-bb79-41d950609d40",
             "Value": {
                 "id": "b22bd0db-e19b-4cb6-a967-4c94189c2b71",
@@ -351,14 +343,6 @@
             }
         },
         {
-            "Key": "40d4ffe4-5a4e-43f7-8d00-2c92149e8ac9",
-            "Value": {
-                "id": "7678db2c-7214-4fde-97d5-a657fc0e4e3e",
-                "resourcePath": "objects\/objSuperMario\/objSuperMario.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "41abbeb9-d405-49fa-a754-d4e68f60078f",
             "Value": {
                 "id": "df4e326b-fc27-4afc-871b-060b5d4ecf7b",
@@ -399,6 +383,14 @@
             }
         },
         {
+            "Key": "45c75115-9a00-4a7a-ad04-ffb6e9d76cc2",
+            "Value": {
+                "id": "bddf9eaa-f985-4141-bb72-9bbe3950f2f5",
+                "resourcePath": "objects\\objLifeform\\objLifeform.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "463ac42c-4dad-4b2a-96a7-34af8a25b6ee",
             "Value": {
                 "id": "6ebe568e-c54d-46e2-b823-4ac5a6d9de6e",
@@ -431,6 +423,14 @@
             }
         },
         {
+            "Key": "5b0c51b6-9b1d-442b-a4b7-7f5a28cbcfb6",
+            "Value": {
+                "id": "5629e5fb-0aea-42a9-ab1e-d6db4f383798",
+                "resourcePath": "objects\\objMario\\objMario.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5d002397-7632-4aff-9b94-1787b6e8e969",
             "Value": {
                 "id": "4bd67aca-db76-4b41-a17b-8d987eab203f",
@@ -452,6 +452,14 @@
                 "id": "8e435340-d4fd-4ca1-869c-f3a476bbc1e2",
                 "resourcePath": "objects\/objStar\/objStar.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5f19b76e-a7c6-437c-aa73-887dbb532eed",
+            "Value": {
+                "id": "6628b20c-5ca9-4f46-b875-8cb61c5a27b2",
+                "resourcePath": "views\\5f19b76e-a7c6-437c-aa73-887dbb532eed.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -611,6 +619,14 @@
             "Value": {
                 "id": "c344f1fd-896a-4a92-bcac-86dc714e2b7f",
                 "resourcePath": "views\/8ee7d325-d63e-4208-b750-ea081d380342.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "90894c14-07a1-478c-a051-71ffef151a53",
+            "Value": {
+                "id": "d5052580-86ec-44a8-aa4f-e8607ee72705",
+                "resourcePath": "views\\90894c14-07a1-478c-a051-71ffef151a53.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -1039,6 +1055,14 @@
             }
         },
         {
+            "Key": "f062cff4-13b6-4129-8e95-e301c819e7e3",
+            "Value": {
+                "id": "818958c8-02bf-4a6e-adbb-e3ad3cce44d7",
+                "resourcePath": "objects\\objGameManager\\objGameManager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f1b11831-1f99-4942-b6ec-707000b5b095",
             "Value": {
                 "id": "2d6811a7-793d-4d6d-9db6-4c38c7ac507c",
@@ -1067,6 +1091,14 @@
             "Value": {
                 "id": "8e6f12a8-111c-4274-a734-fa3e8f302f64",
                 "resourcePath": "objects\/objKoopaTroopa\/objKoopaTroopa.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f7d85284-97e6-499b-97e3-ab0f0757a23a",
+            "Value": {
+                "id": "4d9720e0-7d7a-43a3-b127-8e0930d0fa1c",
+                "resourcePath": "objects\\objEnemy\\objEnemy.yy",
                 "resourceType": "GMObject"
             }
         },

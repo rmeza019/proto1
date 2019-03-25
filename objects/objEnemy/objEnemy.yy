@@ -1,8 +1,8 @@
 {
-    "id": "40d4ffe4-5a4e-43f7-8d00-2c92149e8ac9",
+    "id": "f7d85284-97e6-499b-97e3-ab0f0757a23a",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objSuperMario",
+    "name": "objEnemy",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "de4ce8a4-bf88-4738-942c-c439b67eaf27",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

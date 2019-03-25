@@ -1,14 +1,14 @@
 {
-    "id": "18c34280-682d-4d41-babe-5024685ebc6c",
+    "id": "5b0c51b6-9b1d-442b-a4b7-7f5a28cbcfb6",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objSmolMario",
+    "name": "objMario",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "45c75115-9a00-4a7a-ad04-ffb6e9d76cc2",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "028b0a80-0c37-4aaa-a9c6-0f1f3a151c56",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

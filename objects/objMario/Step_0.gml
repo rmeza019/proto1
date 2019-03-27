@@ -1,13 +1,20 @@
 /// @description 
-show_debug_message("State: " + string(state));
+//show_debug_message("State: " + string(state));
 show_debug_message("xSpd: " + string(xSpd));
 //show_debug_message("newXDir: " + string(newXDir));
+
+FrameCounter();
+
 switch (state) {
 	case states.idle:
 		#region Idle State
+		sprite = sprSmolMarioIdle;
+		
+		xSpd = 0;
+		MoveAndCollide(xSpd, ySpd);
+		
 		if (input.left && input.right) {
 			state = states.idle;
-			xSpd = 0;
 		} else if (input.left || input.right) {
 			state = states.walk;
 		}
@@ -16,6 +23,7 @@ switch (state) {
 	
 	case states.walk:
 		#region Walk State
+		sprite = sprSmolMarioWalk;
 		
 		if (input.left) {
 			newXDir = -1;
@@ -31,7 +39,6 @@ switch (state) {
 		}
 		
 		xDir = newXDir;
-		image_xscale = xDir;
 		
 		if (input.left || input.right) {
 			if (xSpd < maxWalkSpd) {
@@ -45,9 +52,9 @@ switch (state) {
 			}
 		}
 		
-		x += xSpd * xDir;
+		MoveAndCollide(xSpd * xDir, ySpd);
 		
-		if (xSpd == 0) {
+		if (xSpd <= 0) {
 			state = states.idle;
 		}
 		break;
@@ -65,7 +72,8 @@ switch (state) {
 	
 	case states.skid:
 		#region Skid State
-		image_xscale = newXDir;
+		sprite = sprSmolMarioSkid;		
+		
 		if (xSpd > 0) {
 			xSpd -= walkAccel * 2;
 		}

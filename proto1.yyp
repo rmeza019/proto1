@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "031c30e7-6e76-4090-ba3f-be6082ca8ba6",
+            "Value": {
+                "id": "24266372-2c78-4480-9a7c-52dda331473b",
+                "resourcePath": "scripts\\ApproachValue\\ApproachValue.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "05054455-56ca-437c-9565-d78f2f362137",
             "Value": {
                 "id": "76eb6790-0ca3-4a1c-ad76-9ef1c4b21b48",
@@ -359,6 +367,14 @@
             }
         },
         {
+            "Key": "43119ab3-b168-4798-9c10-8fe7badff712",
+            "Value": {
+                "id": "bb410232-7323-44ed-9642-8cca021ad9f1",
+                "resourcePath": "scripts\\FrameReset\\FrameReset.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "43583681-42e3-4f03-98fd-5f814c3eb3ec",
             "Value": {
                 "id": "df44cf11-2d65-4466-b2a3-a8ffb68094a2",
@@ -556,6 +572,14 @@
                 "id": "1e73dde5-3c05-477e-b4c3-f5d603445eee",
                 "resourcePath": "views\/79c8f425-c74a-4de2-84cc-271d1ded6753.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7d1d7765-4365-42e1-ab13-dd00cc352056",
+            "Value": {
+                "id": "ab8f7f70-1497-43fe-8e7a-43c25be0b86a",
+                "resourcePath": "scripts\\FrameCounter\\FrameCounter.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -919,6 +943,14 @@
             }
         },
         {
+            "Key": "d499b85e-b138-4b97-a2e3-c03a3169d903",
+            "Value": {
+                "id": "a5093f37-f8f9-43d0-80b0-ad92f91d4adf",
+                "resourcePath": "scripts\\MoveAndCollide\\MoveAndCollide.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "d51d894e-c3cc-4a0d-ab1c-15c64c673a4c",
             "Value": {
                 "id": "e59b2e73-a6a7-4932-bfd1-ca467eaf09fa",
@@ -1144,7 +1176,10 @@
         }
     ],
     "script_order": [
-        
+        "031c30e7-6e76-4090-ba3f-be6082ca8ba6",
+        "7d1d7765-4365-42e1-ab13-dd00cc352056",
+        "43119ab3-b168-4798-9c10-8fe7badff712",
+        "d499b85e-b138-4b97-a2e3-c03a3169d903"
     ],
     "tutorial": ""
 }

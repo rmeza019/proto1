@@ -2,6 +2,7 @@
 event_inherited();
 invincibility = false;
 invulnerability = false;
+walkAccel = 0.2;
 maxRunSpd = 8;
 runAccel = 1;
 walkSkidTreshold = maxWalkSpd / 2.5;

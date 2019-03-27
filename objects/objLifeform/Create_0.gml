@@ -9,3 +9,12 @@ maxWalkSpd = 5;
 walkAccel = 0.1;
 xDir = 1;
 yDir = 1;
+
+//drawing and animation
+sprite = sprite_index;
+lastSprite = sprite;
+frame = 0;
+frameSpd = 0.2;
+angle = 0;
+color = c_white;
+alpha = 1;

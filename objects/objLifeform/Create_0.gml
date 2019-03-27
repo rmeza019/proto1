@@ -6,4 +6,6 @@ yPos = 0;
 xSpd = 0;
 ySpd = 0;
 maxWalkSpd = 5;
-facingDir = 1;
+walkAccel = 0.1;
+xDir = 1;
+yDir = 1;

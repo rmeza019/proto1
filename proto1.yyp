@@ -423,6 +423,14 @@
             }
         },
         {
+            "Key": "47b521cc-2686-4139-b672-479e000ab88a",
+            "Value": {
+                "id": "de92158b-0851-47e9-8e82-1c6d067faf5d",
+                "resourcePath": "objects\\objOverworldGround\\objOverworldGround.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "48d541f6-ff1b-479f-af7b-6c141196db01",
             "Value": {
                 "id": "290fa487-365d-428d-adb0-236edef5d91b",
@@ -642,7 +650,7 @@
             "Key": "8db65b65-33b3-45fa-8f11-f73efcf4d8cd",
             "Value": {
                 "id": "dbb89502-eb4d-4dc2-8788-901c83096981",
-                "resourcePath": "rooms\/room0\/room0.yy",
+                "resourcePath": "rooms\\romTesting\\romTesting.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -1079,6 +1087,14 @@
             }
         },
         {
+            "Key": "e5bc8020-2794-4624-aa54-d15a7cd79536",
+            "Value": {
+                "id": "694a776c-9b6d-4e0f-8d99-94eba3a87f40",
+                "resourcePath": "scripts\\CheckBelow\\CheckBelow.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "ea0828ca-2503-45a0-a079-24a418a38e59",
             "Value": {
                 "id": "7bd8697c-8f9b-4675-8316-105c833d3c3c",
@@ -1179,7 +1195,8 @@
         "031c30e7-6e76-4090-ba3f-be6082ca8ba6",
         "7d1d7765-4365-42e1-ab13-dd00cc352056",
         "43119ab3-b168-4798-9c10-8fe7badff712",
-        "d499b85e-b138-4b97-a2e3-c03a3169d903"
+        "d499b85e-b138-4b97-a2e3-c03a3169d903",
+        "e5bc8020-2794-4624-aa54-d15a7cd79536"
     ],
     "tutorial": ""
 }

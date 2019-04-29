@@ -4,36 +4,7 @@
     "mvc": "1.0",
     "name": "objMario",
     "eventList": [
-        {
-            "id": "91954673-96e4-4eee-aefb-d3bcde05f1cf",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "5b0c51b6-9b1d-442b-a4b7-7f5a28cbcfb6"
-        },
-        {
-            "id": "4ee0304f-3550-4319-89c6-a8b5f05b8795",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "5b0c51b6-9b1d-442b-a4b7-7f5a28cbcfb6"
-        },
-        {
-            "id": "f5f08a4c-cacc-492b-bedf-60e2515e77b0",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "5b0c51b6-9b1d-442b-a4b7-7f5a28cbcfb6"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -53,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "028b0a80-0c37-4aaa-a9c6-0f1f3a151c56",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

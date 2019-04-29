@@ -4,7 +4,7 @@
     "mvc": "1.0",
     "IsDnDProject": false,
     "configs": [
-        
+
     ],
     "option_ecma": false,
     "parentProject": {
@@ -25,7 +25,7 @@
             }
         ],
         "hiddenResources": [
-            
+
         ],
         "projectPath": "${base_project}"
     },
@@ -60,14 +60,6 @@
                 "id": "2ff7590e-a229-46aa-877d-6e96b0d835c7",
                 "resourcePath": "sprites\/sprFlag\/sprFlag.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "031c30e7-6e76-4090-ba3f-be6082ca8ba6",
-            "Value": {
-                "id": "24266372-2c78-4480-9a7c-52dda331473b",
-                "resourcePath": "scripts\\ApproachValue\\ApproachValue.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -319,6 +311,25 @@
             }
         },
         {
+            "Key": "34f55624-6b73-434d-a7d6-e288f128e1be",
+            "Value": {
+                "id": "52088738-0f92-4f13-9355-c3105fb0c6c2",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+
+                ],
+                "configDeltas": [
+
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprDoubleCloud\/sprDoubleCloud.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "352fa168-668a-407f-ac27-a0dd88fe0ff0",
             "Value": {
                 "id": "d890dcd4-a799-46f9-82d8-40830e400057",
@@ -367,14 +378,6 @@
             }
         },
         {
-            "Key": "43119ab3-b168-4798-9c10-8fe7badff712",
-            "Value": {
-                "id": "bb410232-7323-44ed-9642-8cca021ad9f1",
-                "resourcePath": "scripts\\FrameReset\\FrameReset.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "43583681-42e3-4f03-98fd-5f814c3eb3ec",
             "Value": {
                 "id": "df44cf11-2d65-4466-b2a3-a8ffb68094a2",
@@ -420,14 +423,6 @@
                 "id": "6ebe568e-c54d-46e2-b823-4ac5a6d9de6e",
                 "resourcePath": "sprites\/sprStaticCoin\/sprStaticCoin.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "47b521cc-2686-4139-b672-479e000ab88a",
-            "Value": {
-                "id": "de92158b-0851-47e9-8e82-1c6d067faf5d",
-                "resourcePath": "objects\\objOverworldGround\\objOverworldGround.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -580,14 +575,6 @@
                 "id": "1e73dde5-3c05-477e-b4c3-f5d603445eee",
                 "resourcePath": "views\/79c8f425-c74a-4de2-84cc-271d1ded6753.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "7d1d7765-4365-42e1-ab13-dd00cc352056",
-            "Value": {
-                "id": "ab8f7f70-1497-43fe-8e7a-43c25be0b86a",
-                "resourcePath": "scripts\\FrameCounter\\FrameCounter.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -951,14 +938,6 @@
             }
         },
         {
-            "Key": "d499b85e-b138-4b97-a2e3-c03a3169d903",
-            "Value": {
-                "id": "a5093f37-f8f9-43d0-80b0-ad92f91d4adf",
-                "resourcePath": "scripts\\MoveAndCollide\\MoveAndCollide.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "d51d894e-c3cc-4a0d-ab1c-15c64c673a4c",
             "Value": {
                 "id": "e59b2e73-a6a7-4932-bfd1-ca467eaf09fa",
@@ -1087,14 +1066,6 @@
             }
         },
         {
-            "Key": "e5bc8020-2794-4624-aa54-d15a7cd79536",
-            "Value": {
-                "id": "694a776c-9b6d-4e0f-8d99-94eba3a87f40",
-                "resourcePath": "scripts\\CheckBelow\\CheckBelow.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "ea0828ca-2503-45a0-a079-24a418a38e59",
             "Value": {
                 "id": "7bd8697c-8f9b-4675-8316-105c833d3c3c",
@@ -1192,11 +1163,7 @@
         }
     ],
     "script_order": [
-        "031c30e7-6e76-4090-ba3f-be6082ca8ba6",
-        "7d1d7765-4365-42e1-ab13-dd00cc352056",
-        "43119ab3-b168-4798-9c10-8fe7badff712",
-        "d499b85e-b138-4b97-a2e3-c03a3169d903",
-        "e5bc8020-2794-4624-aa54-d15a7cd79536"
+
     ],
     "tutorial": ""
 }

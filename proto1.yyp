@@ -115,6 +115,14 @@
             }
         },
         {
+            "Key": "031c30e7-6e76-4090-ba3f-be6082ca8ba6",
+            "Value": {
+                "id": "24266372-2c78-4480-9a7c-52dda331473b",
+                "resourcePath": "scripts\\ApproachValue\\ApproachValue.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "05054455-56ca-437c-9565-d78f2f362137",
             "Value": {
                 "id": "76eb6790-0ca3-4a1c-ad76-9ef1c4b21b48",
@@ -723,6 +731,14 @@
             }
         },
         {
+            "Key": "352fa168-668a-407f-ac27-a0dd88fe0ff0",
+            "Value": {
+                "id": "d890dcd4-a799-46f9-82d8-40830e400057",
+                "resourcePath": "objects\\objInputManger\\objInputManger.yy",
+                "resourceType": "GMObject"
+            }
+        }, 
+        {
             "Key": "372ea507-e815-44e1-9a74-2e827fdc875d",
             "Value": {
                 "id": "12470572-9079-4d9d-910e-9fd6756c1ec7",
@@ -815,6 +831,14 @@
                 ],
                 "resourcePath": "objects\/objToad\/objToad.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "43119ab3-b168-4798-9c10-8fe7badff712",
+            "Value": {
+                "id": "bb410232-7323-44ed-9642-8cca021ad9f1",
+                "resourcePath": "scripts\\FrameReset\\FrameReset.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -929,6 +953,14 @@
                 ],
                 "resourcePath": "sprites\/sprStaticCoin\/sprStaticCoin.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "47b521cc-2686-4139-b672-479e000ab88a",
+            "Value": {
+                "id": "de92158b-0851-47e9-8e82-1c6d067faf5d",
+                "resourcePath": "objects\\objOverworldGround\\objOverworldGround.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1350,6 +1382,14 @@
             }
         },
         {
+            "Key": "7d1d7765-4365-42e1-ab13-dd00cc352056",
+            "Value": {
+                "id": "ab8f7f70-1497-43fe-8e7a-43c25be0b86a",
+                "resourcePath": "scripts\\FrameCounter\\FrameCounter.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "7e406c20-7b36-4612-b4b2-204527d085d8",
             "Value": {
                 "id": "e32c3a79-8c52-4e9a-adaa-00444a883b49",
@@ -1505,6 +1545,13 @@
             "Key": "8db65b65-33b3-45fa-8f11-f73efcf4d8cd",
             "Value": {
                 "id": "dbb89502-eb4d-4dc2-8788-901c83096981",
+                "resourceType": "GMRoom"
+            }
+        },
+         {
+            "Key": "f062cff4-13b6-4129-8e95-e301c819e7e3",
+            "Value": {              
+                "id": "818958c8-02bf-4a6e-adbb-e3ad3cce44d7",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -1516,8 +1563,8 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "rooms\/room0\/room0.yy",
-                "resourceType": "GMRoom"
+                "resourcePath": "rooms\\romTesting\\romTesting.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -2262,6 +2309,14 @@
             }
         },
         {
+            "Key": "d499b85e-b138-4b97-a2e3-c03a3169d903",
+            "Value": {
+                "id": "a5093f37-f8f9-43d0-80b0-ad92f91d4adf",
+                "resourcePath": "scripts\\MoveAndCollide\\MoveAndCollide.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "d51d894e-c3cc-4a0d-ab1c-15c64c673a4c",
             "Value": {
                 "id": "e59b2e73-a6a7-4932-bfd1-ca467eaf09fa",
@@ -2566,6 +2621,14 @@
             }
         },
         {
+            "Key": "e5bc8020-2794-4624-aa54-d15a7cd79536",
+            "Value": {
+                "id": "694a776c-9b6d-4e0f-8d99-94eba3a87f40",
+                "resourcePath": "scripts\\CheckBelow\\CheckBelow.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "ea0828ca-2503-45a0-a079-24a418a38e59",
             "Value": {
                 "id": "7bd8697c-8f9b-4675-8316-105c833d3c3c",
@@ -2814,7 +2877,11 @@
         }
     ],
     "script_order": [
-        
+        "031c30e7-6e76-4090-ba3f-be6082ca8ba6",
+        "7d1d7765-4365-42e1-ab13-dd00cc352056",
+        "43119ab3-b168-4798-9c10-8fe7badff712",
+        "d499b85e-b138-4b97-a2e3-c03a3169d903",
+        "e5bc8020-2794-4624-aa54-d15a7cd79536"
     ],
     "tutorial": ""
 }

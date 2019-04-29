@@ -16,5 +16,3 @@ enum forms {
 	super,
 	fire
 }
-
-input = instance_create_layer(x, y, "Instances", objInputManger);
